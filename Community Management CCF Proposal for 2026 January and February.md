@@ -40,7 +40,7 @@ Over the past two months, we have observed a decrease in Discord and Telegram us
 **Discord:**
 //DC SS HERE !!!
 
-**Telegram:**  
+**Telegram:**
 //TG SS HERE !!!
 
 
