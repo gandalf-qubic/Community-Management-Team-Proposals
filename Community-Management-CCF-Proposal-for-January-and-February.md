@@ -53,7 +53,7 @@ Community Management acts as the operational arm that translates governance outc
 ## 🧾 Budget breakdown
 |CONCEPTS|JANUARY|VALUE IN $QUBIC|FEBRUARY|VALUE IN $QUBIC|TOTAL VALUE IN $QUBIC|
 |------------|------------|------------|------------|------------|------------|
-|**Salaries**|$11250| 000 Billion $QUBIC|$11250 $|000 Billion $QUBIC| 000 Billion $QUBIC|
+|**Salaries**|$11250| 000 Billion $QUBIC|$11250|000 Billion $QUBIC| 000 Billion $QUBIC|
 |**Activities***| - | - | - | - | - |
 |**TOTAL**|$11250| 000 Billion $QUBIC|$11250|000 Billion $QUBIC| 000 Billion $QUBIC|
 
