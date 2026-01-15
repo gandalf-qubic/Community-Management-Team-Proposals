@@ -58,6 +58,11 @@ Community Management acts as the operational arm that translates governance outc
 |**Activities**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 |**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 
+**Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below. Activities include community engagement initiatives, quizzes, and low-cost incentives.**
+
+> [!NOTE]
+> *We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth.*
+
 ## FAQ
 ### Q: Who leads the Community Team?
 A: El_Clip, elected by Quorum with 630 votes, serves as the coordinator and liaison with governance structures. We want to highlight that the community team has a horizontal structure, and relevant decisions are made collectively by vote.
@@ -70,8 +75,6 @@ A: While the team is currently growing on stability, volunteer participation is 
 > Please note: The following answer contains PDF links that will be downloaded to your device when clicked.
 
 A: The Community Quorum served to approve the [Community Team Proposal](https://github.com/user-attachments/files/20735890/Community.Team.Proposal.8.pdf) , the [Independence for the Community Team Proposal](https://github.com/user-attachments/files/20735892/Proposal.Independence.for.the.Community.Team.2.pdf) and the [Rules revision Proposal](https://github.com/user-attachments/files/20735895/Case.Rules.revision.4.pdf)
-### Q: What measures are in place to face volatility?
-A: We apply a a **dynamic salary model** based on price tiers.A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth.
 ### Q: Who are the moderators in the Spanish Telegram?
 A: Currently the moderators in the Spanish TG, with more than 1000 members, are Jortxjortx, Drac, Jesus, Alejandro.
 ### Q: Which are the coming regional communities to join the Community Team?
