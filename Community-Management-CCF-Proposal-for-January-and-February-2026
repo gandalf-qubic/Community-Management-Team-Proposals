@@ -43,21 +43,21 @@ Community growth has remained relatively stable in the past two months, with no 
 
 ## Governance
 In recent months, the governance structure based on the Community Quorum has been consolidating its importance, and proposals are becoming increasingly common for addressing day-to-day situations.
+*Community Support and Moderators’ representation within the Community Quorum, complemented by the perspective and suggestions of admins, provides greater plurality and representativeness.
 
-- Community Support and Moderators’ representation within the Community Quorum, complemented by the perspective and suggestions of admins, provides greater plurality and representativeness.
-- The rest of the community is invited to participate in polls concerning community decisions. While the authority to modify or update rules lies with the Community Quorum, community polls serve as a reflection of collective sentiment and are crucial when controversial decisions arise.
+*The rest of the community is invited to participate in polls concerning community decisions. While the authority to modify or update rules lies with the Community Quorum, community polls serve as a reflection of collective sentiment and are crucial when controversial decisions arise.
 
 Community Management acts as the operational arm that translates governance outcomes into enforceable moderation actions and clear community-wide communication. This role ensures that decisions made through the Community Quorum are consistently applied across Discord and Telegram, preserving governance continuity and trust.
 
-- Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
+*Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
 
 
 ## Budget breakdown
 |CONCEPTS|JANUARY|VALUE IN $QUBIC|FEBRUARY|VALUE IN $QUBIC|TOTAL VALUE IN $QUBIC|
 |------------|------------|------------|------------|------------|------------|
-|**Salaries**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
-|**Activities**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
-|**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
+|**Salaries**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
+|**Activities**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
+|**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 
 ## FAQ
 ### Q: Who leads the Community Team?
@@ -69,6 +69,7 @@ A: While the team is currently growing on stability, volunteer participation is 
 ### Q: What are the 3 proposals approved by the Community Quorum until now?
 > [!WARNING]
 > Please note: The following answer contains PDF links that will be downloaded to your device when clicked.
+
 A: The Community Quorum served to approve the [Community Team Proposal](https://github.com/user-attachments/files/20735890/Community.Team.Proposal.8.pdf) , the [Independence for the Community Team Proposal](https://github.com/user-attachments/files/20735892/Proposal.Independence.for.the.Community.Team.2.pdf) and the [Rules revision Proposal](https://github.com/user-attachments/files/20735895/Case.Rules.revision.4.pdf)
 ### Q: What measures are in place to face volatility?
 A: We apply a a **dynamic salary model** based on price tiers.A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth.
