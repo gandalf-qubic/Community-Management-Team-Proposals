@@ -20,8 +20,7 @@ The Community Management Team moderates the Qubic Discord server and Telegram ch
 ## 🔍 How We Used Past Funding during the last 2 months ## 
 Due to market conditions and price fluctuations, the Community Team applied its dynamic compensation model to remain within the allocated budget. Despite these adjustments, operations on Discord and Telegram continued uninterrupted, with a full focus on core moderation, governance support, and community safety.
 
-Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram, as well as organizing low-cost activities aimed at raising awareness and sustaining community engagement.
-
+Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram.
 
 ## 🛠️ Achievements and Implementations
 
@@ -54,11 +53,14 @@ Community Management acts as the operational arm that translates governance outc
 |**Activities***| - | - | - | - | - |
 |**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 
-**Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below. Activities include community engagement initiatives, quizzes, games and low-cost incentives.**
+**Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
 > [!IMPORTANT]
-> *We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth. This model has already been applied in practice and allows the Community Team to remain operational without requiring emergency budget revisions.
-<br/><br/>Activities have been suspended until the price returns to higher levels.*
+> We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth. This model has already been applied in practice and allows the Community Team to remain operational without requiring emergency budget revisions.
+
+> [!IMPORTANT]
+> We have been hosting consistent weekly fun activities for the community for more than a year. The server has approximately ~60,000 members, with ~0.03–0.17% active participation of the total server size. Activities include/included weekly game nights, quiz nights, and occasional activities based on major events around the project. Some activities were paused in-between as well as the allocated budget. Overall participation is consistent, indicating a stable and engaged community base capable of supporting the proposed initiative. <br/>(Amount spent in last 3 months $1080 worth of $QUBIC)
+<br/><br/>The community team will be taking a break from hosting activities to get a new refresh. There were some malicious practices detected from a group of people aiming only to extract and not providing value in any of the other aspects of the project. We highly value true support and engagement so this pause will help us in filtering. We plan to continue these later this year and even open to new ideas and type of activities
 
 ## ❓FAQ
 <details>
