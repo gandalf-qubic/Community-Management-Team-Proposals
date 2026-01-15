@@ -58,7 +58,7 @@ Community Management acts as the operational arm that translates governance outc
 |**Activities**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 |**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
 
-**Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below. Activities include community engagement initiatives, quizzes, and low-cost incentives.**
+**Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below. Activities include community engagement initiatives, quizzes, games and low-cost incentives.**
 
 > [!NOTE]
 > *We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on token price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth.*
