@@ -69,8 +69,7 @@ Community Management acts as the operational arm that translates governance outc
 ## ❓FAQ
 <details>
 <summary>Who is part of The Community Team?</summary>
-<br/>👤 Lead: El_Clip
-<br/>👥 Team Members: Salar · Braven · Rayyan · Hash · Yigit · Gandalf · Satoshi · Doge · Toddlize · Xarkur · Jgvks · Spanish TG Moderators
+<br/>👥 Team Members: El_Clip · Salar · Braven · Rayyan · Hash · Yigit · Gandalf · Satoshi · Doge · Toddlize · Xarkur · Jgvks · Spanish TG Moderators
 <br/><br/>ℹ️ We truly appreciate the voluntary contribution of: Tom, Zoxx, Pomm3sgab3l, Frog-Rabbit, and other contributors in Discord and Telegram.<br/><br/>
 </details>
 <details>
