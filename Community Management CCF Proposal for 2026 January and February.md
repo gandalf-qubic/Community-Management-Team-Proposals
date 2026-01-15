@@ -37,13 +37,6 @@ Due to the price decrease, we were able to cover one fewer month than originally
 ## Community Growth
 Over the past two months, we have observed a decrease in Discord and Telegram users, with proportionally larger growth on Telegram. Although overall growth has retraced and the Community Team is pausing its efforts to expand, we still anticipate future growth, particularly on Telegram. However, we remain cautious, as the current situation makes any expansion tasks unnecessary for now. This aligns with the broader market outlook, and we expect conditions to improve once the market turns positive. Despite this temporary slowdown, the team is fully prepared to welcome new community members and expects user numbers to rise as adoption increases with important developments in the pipeline.
 
-**Discord:**
-//DC SS HERE !!!
-
-**Telegram:**
-//TG SS HERE !!!
-
-
 ## Governance
 In recent months, the governance structure based on the Community Quorum has been consolidating its importance, and proposals are becoming increasingly common for addressing day-to-day situations.
 * Community Support and Moderators’ representation within the Community Quorum, complemented by the perspective and suggestions of admins, provides greater plurality and representativeness.
@@ -51,7 +44,11 @@ In recent months, the governance structure based on the Community Quorum has bee
 * Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
 
 ## Budget breakdown
-//SS HERE !!!
+|CONCEPTS|JANUARY|VALUE IN $QUBIC|FEBRUARY|VALUE IN $QUBIC|TOTAL VALUE IN $QUBIC|
+|------------|------------|------------|------------|------------|------------|
+|**Salaries**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
+|**Activities**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
+|**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC
 
 ## FAQ
 ### Q: Who leads the Community Team?
