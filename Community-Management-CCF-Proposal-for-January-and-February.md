@@ -61,6 +61,7 @@ Community Management acts as the operational arm that translates governance outc
 
 > [!IMPORTANT]
 > We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on Qubic price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth. This model has already been applied in practice and allows the Community Team to remain operational without requiring emergency budget revisions.
+<br/><br/>Monthly salary expenses have been reduced from **$16K** to **$11K**, representing an approximate **30% reduction** in response to current PA conditions.
 
 > [!IMPORTANT]
 > We have been hosting consistent weekly fun activities for the community for more than a year. The server has approximately ~60,000 members, with ~0.03–0.17% active participation of the total server size. Activities include/included weekly game nights, quiz nights, and occasional activities based on major events around the project. Some activities were paused in-between as well as the allocated budget. Overall participation is consistent, indicating a stable and engaged community base capable of supporting the proposed initiative. <br/>(Amount spent in last 3 months $1080 worth of $QUBIC)
