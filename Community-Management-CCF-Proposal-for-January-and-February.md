@@ -1,6 +1,6 @@
 # Community Management CCF Proposal for January and February
 
-Send (XXX) billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the months of January and February. The Qubic amount was calculated using a valuation of (XXX) USDT per billion.
+Send (000) billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the months of January and February. The Qubic amount was calculated using a valuation of (000) USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
@@ -53,9 +53,9 @@ Community Management acts as the operational arm that translates governance outc
 ## 🧾 Budget breakdown
 |CONCEPTS|JANUARY|VALUE IN $QUBIC|FEBRUARY|VALUE IN $QUBIC|TOTAL VALUE IN $QUBIC|
 |------------|------------|------------|------------|------------|------------|
-|**Salaries**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
+|**Salaries**|$11250| 000 Billion $QUBIC|$11250 $|000 Billion $QUBIC| 000 Billion $QUBIC|
 |**Activities***| - | - | - | - | - |
-|**TOTAL**|000 $| 000 Billion $QUBIC|000 $|000 Billion $QUBIC| XXX Billion $QUBIC|
+|**TOTAL**|$11250| 000 Billion $QUBIC|$11250|000 Billion $QUBIC| 000 Billion $QUBIC|
 
 **Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
