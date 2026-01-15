@@ -45,8 +45,7 @@ Community growth has remained relatively stable in the past two months, with no 
 In recent months, the governance structure based on the Community Quorum has been consolidating its importance, and proposals are becoming increasingly common for addressing day-to-day situations.
 * Community Support and Moderators’ representation within the Community Quorum, complemented by the perspective and suggestions of admins, provides greater plurality and representativeness.
 
-* The rest of the community is invited to participate in polls concerning community decisions. While the authority to modify or update rules lies with the Community Quorum, community polls serve as a reflection of collective sentiment and are crucial when controversial decisions arise.
-
+* The rest of the community is invited to participate in polls concerning community decisions. While the authority to modify or update rules lies with the Community Quorum, community polls serve as a reflection of collective sentiment and are crucial when controversial decisions arise. 
 Community Management acts as the operational arm that translates governance outcomes into enforceable moderation actions and clear community-wide communication. This role ensures that decisions made through the Community Quorum are consistently applied across Discord and Telegram, preserving governance continuity and trust.
 
 * Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
