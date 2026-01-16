@@ -41,13 +41,13 @@ During the same period, Discord has continued to function as the primary coordin
 With a stable moderation framework and a well-defined server structure now in place, Discord is operationally prepared to accommodate renewed growth while preserving a constructive and organized community environment.
 
 ## 🏛️ Governance
-In recent months, the governance structure based on the Community Quorum has been consolidating its importance, and proposals are becoming increasingly common for addressing day-to-day situations.
-* Community Support and Moderators’ representation within the Community Quorum, complemented by the perspective and suggestions of admins, provides greater plurality and representativeness.
+We are encouraged by the growing use of the **#community-team** channel, where an increasing number of discussions and disagreements are being constructively resolved through open dialogue rather than escalation. This trend reflects a healthier communication culture and a stronger sense of shared responsibility within the ecosystem.
 
-* The rest of the community is invited to participate in polls concerning community decisions. While the authority to modify or update rules lies with the Community Quorum, community polls serve as a reflection of collective sentiment and are crucial when controversial decisions arise. 
-Community Management acts as the operational arm that translates governance outcomes into enforceable moderation actions and clear community-wide communication. This role ensures that decisions made through the Community Quorum are consistently applied across Discord and Telegram, preserving governance continuity and trust.
+In parallel, work is underway to introduce a new **feedback structure** accessible outside of Discord and Telegram, allowing community members to submit structured feedback directly to the Community Management Team. This initiative aims to lower participation barriers, improve inclusivity and strengthen the feedback loop between governance, moderation and the wider community. Development of this structure is ongoing.
 
-* Guidelines and moderation policies have evolved through community feedback, public polls, and Community Quorum discussions. As the community matures, we aim to make polls a legitimate tool for shaping and adapting the shared framework across our social networks. In this regard, a new polling application will soon be released by the ecosystem team to help better reflect community sentiment based on Qubic stake.
+Over the past months, community-driven governance has continued to mature with the Community Quorum increasingly serving as a practical decision-making layer for everyday operational matters. The active involvement of Community Support and Moderators within the Quorum, together with administrative input, has strengthened balance, transparency and representational diversity.
+
+While the authority to define and amend rules remains with the Community Quorum, broader community participation is facilitated through polls that capture collective sentiment—particularly in sensitive or debated situations. Community Management plays a key execution role by translating governance outcomes into consistent moderation practices and clear communication across Discord and Telegram.
 
 
 ## 🧾 Budget breakdown
