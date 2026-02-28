@@ -1,6 +1,6 @@
 # Community Management CCF Proposal for March
 
-Send 15.5 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of March. The Qubic amount was calculated using a valuation of 500 USDT per billion.
+Send 15.1 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of March. The Qubic amount was calculated using a valuation of 500 USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
@@ -61,7 +61,7 @@ Send 15.5 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 ## 🧾 预算明细
 |项目|三月|价值（$QUBIC）|
 |------------|------------|------------|
-|**薪资**|$7550| 151亿 $QUBIC|
+|**薪资**|$7550| 15.1亿 $QUBIC|
 
 **薪资涵盖全职与兼职版主，根据工作量与责任分配，并采用下述动态薪酬模型。**
 
