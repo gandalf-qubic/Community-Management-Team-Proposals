@@ -1,10 +1,10 @@
-# Community Management CCF Proposal for April
+# Community Management CCF Proposal for April and May
 
-Send 15.1 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of March. The Qubic amount was calculated using a valuation of 500 USDT per billion.
+Send 12.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
-> **Option 1**: ✅ Yes, approve the budget of 15.1 bln QUBIC.
+> **Option 1**: ✅ Yes, approve the budget of 12.3 bln QUBIC.
 
 ## 简体中文版
 <details>
@@ -12,12 +12,12 @@ Send 15.1 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 
 # 社区管理 CCF 十一月与十二月提案
 
-向钱包 **COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI** 转账 **15.1 亿 QUBIC**，用于支持十一月和十二月的社区管理工作。QUBIC 数量基于每十亿估值 **500 USDT** 计算。
+向钱包 **COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI** 转账 **12.3 亿 QUBIC**，用于支持十一月和十二月的社区管理工作。QUBIC 数量基于每十亿估值 **800 USDT** 计算。
 
 ### 可选项：
 > **选项 0**：不同意  
 
-> **选项 1**：同意，批准 15.1 亿 QUBIC 的预算。
+> **选项 1**：同意，批准 12.3 亿 QUBIC 的预算。
   
 ## 本提案的范围是什么？
 本提案旨在为社区团队提供资金支持，使其在三月份继续领取薪资。这将提供额外一个月的时间来确定合适的候选人，随后由该候选人负责提交必要的后续提案。
@@ -118,11 +118,11 @@ Send 15.1 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 </details>
 
 ## What is the scope of this proposal?
-This proposal intends to provide funding for the Community Team to continue receiving their salaries during the month of March. This will provide an additional month to identify a suitable candidate, who will then be responsible for submitting the necessary follow-up proposals.
+This proposal intends to provide funding for the Community Team to continue receiving their salaries during the month of April & May. This will provide an additional month to identify a suitable candidate, who will then be responsible for submitting the necessary follow-up proposals.
 
-The Community Lead publicly announced his intention to step down from the role on February 5th. Over the past few weeks, a selection process has been underway; however, it has not been successful. A new selection process, led by the team, will begin to fill the position. 
+The Community Lead publicly announced his intention to step down from the role on February 5th. Over the past weeks, a selection process has been underway; however, it has not been successful. A new selection process, led by the team, will begin to fill the position. 
 
-During the upcoming month of March, the current Community Lead will continue in a voluntary capacity as a moderator.
+During the upcoming month of April & May, the current Community Lead will continue in a voluntary capacity as a moderator.
 
 
 ## 👥 What Is Community Management?
@@ -159,19 +159,21 @@ The Community Quorum has been consolidating its importance. During the absence o
 
 
 ## 🧾 Budget breakdown
-|CONCEPTS|MARCH|VALUE IN $QUBIC|
-|------------|------------|------------|
-|**Salaries**|$7550| 15.1 Billion $QUBIC|
+|CONCEPTS|APRIL|VALUE IN $QUBIC|MAY|VALUE IN $QUBIC|
+|------------|------------|------------|------------|------------|
+|**Salaries**|~~$7550~~ $2300*| 2.87 Billion $QUBIC| $7550| 9.43 Billion $QUBIC|
+
+*The $5250 portion of April's salary will be covered by the increased amount resulting from the price hike during the March payments.
 
 **Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
 > [!IMPORTANT]
 > We apply a **dynamic salary model** based on price tiers. A 3-level salary system, subject to modifications, adjusts compensation based on Qubic price. If the price drops below set thresholds, salaries are reduced accordingly. If the price rises again, salaries are restored to higher levels. This model aligns compensation with market performance. It helps manage budget during downturns and rewards during growth. This model has already been applied in practice and allows the Community Team to remain operational without requiring emergency budget revisions.
-<br/><br/>Monthly salary expenses have been reduced from **$16K** to **$11K**, representing an approximate **30% reduction** in response to current PA conditions.
+<br/><br/>Monthly salary expenses were reduced from **$16,000** to **$11,000**; this represented approximately a **30% reduction** under current PA conditions. As of March, some moderators transitioned from full-time to part-time and since the Community Lead has not yet officially started the current monthly salary expense remains at **$7550**.
 
 > [!IMPORTANT]
-> We have been hosting consistent weekly fun activities for the community for more than a year. The server has approximately ~60,000 members, with ~0.03–0.17% active participation of the total server size. Activities include/included weekly game nights, quiz nights, and occasional activities based on major events around the project. Activities have been paused as well as the allocated budget. <br/>(Amount spent in last 3 months $1080 worth of $QUBIC)
-<br/><br/>The community team will be taking a break from hosting activities to get a new refresh. There were some malicious practices detected from a group of people aiming only to extract and not providing value in any of the other aspects of the project. We highly value true support and engagement so this pause will help us in filtering. We plan to continue these later this year and even open to new ideas and type of activities
+> <br/>For over a year, we've been regularly hosting weekly fun events for the community. The server has approximately 60,000 members, with about 0.03-0.17% of the total server size actively participating. Events included weekly game nights, quiz nights, and occasional events based on larger events around the project. Events and the allocated budget have been discontinued. 
+<br/><br/>The community team will be taking a break from events to make a fresh start. Some malicious practices have been detected by a group of people who are only interested in exploiting the project without adding value in other aspects. We highly value genuine support and participation, so this break will help us filter out such behavior. We plan to resume these events later in the year and are even open to new ideas and types of events.
 
 ## ❓FAQ
 <details>
