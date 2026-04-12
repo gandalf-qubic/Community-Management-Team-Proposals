@@ -122,9 +122,6 @@ This proposal intends to provide funding for the Community Team to continue rece
 
 The Community Lead publicly announced his intention to step down from the role on February 5th. Over the past weeks, a selection process has been underway; however, it has not been successful. A new selection process, led by the team, will begin to fill the position. 
 
-During the upcoming month of April & May, the current Community Lead will continue in a voluntary capacity as a moderator.
-
-
 ## 👥 What Is Community Management?
 The Community Management Team moderates the Qubic Discord server and Telegram channels and supports several regional and multilingual hubs. Community Management acts as a stabilizing layer between protocol development, governance and community participants. It also brings support to other workgroups in the ecosystem. While the core team is composed of designated moderators and community support, it also relies on volunteers. Together they make up a team of more than 20 members.
 
