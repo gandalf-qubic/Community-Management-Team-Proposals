@@ -160,7 +160,7 @@ The Community Quorum has been consolidating its importance. During the absence o
 |------------|------------|------------|------------|------------|
 |**Salaries**|~~$7550~~ $2300*| 2.87 Billion $QUBIC| $7550| 9.43 Billion $QUBIC|
 
-*The $5250 portion of April's salary will be covered by the increased amount resulting from the price hike during the March payments.
+*The $5250 portion of April's salary will be covered by the increased amount resulting from the PA during the March payments.
 
 **Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
