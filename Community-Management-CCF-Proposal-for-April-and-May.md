@@ -1,6 +1,6 @@
 # Community Management CCF Proposal for April and May
 
-Send 12.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
+Send 12.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of April & May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
