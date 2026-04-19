@@ -80,7 +80,7 @@ Send 14.44 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZ
 
 <details>
 <summary>谁领导社区团队？</summary>
-<br/>社区团队采用扁平结构，相关决策通过集体投票做出。<br/><br/>
+<br/>在新的社区负责人（CL）选出之前，我们想强调社区团队采用扁平化结构，相关决策通过集体投票做出。<br/><br/>
 </details>
 
 <details>
@@ -184,7 +184,7 @@ The Community Quorum has been consolidating its importance. During the absence o
 </details>
 <details>
 <summary>Who leads the Community Team?</summary>
-<br/>We want to highlight that the community team has a horizontal structure, and relevant decisions are made collectively by vote.<br/><br/>
+<br/>Until a new CL selected, we want to highlight that the community team has a horizontal structure and relevant decisions are made collectively by vote.<br/><br/>
 </details>
 <details>
 <summary>How large is the Community Team?</summary>
