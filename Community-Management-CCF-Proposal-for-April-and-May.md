@@ -1,10 +1,10 @@
 # Community Management CCF Proposal for April and May
 
-Send 12.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of April & May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
+Send 14.44 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management during the month of April & May. The Qubic amount was calculated using a valuation of 800 USDT per billion.
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
-> **Option 1**: ✅ Yes, approve the budget of 12.3 bln QUBIC.
+> **Option 1**: ✅ Yes, approve the budget of 14.44 bln QUBIC.
 
 ## 简体中文版
 <details>
@@ -12,12 +12,12 @@ Send 12.3 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZF
 
 # 社区管理 CCF 十一月与十二月提案
 
-向钱包 **COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI** 转账 **12.3 亿 QUBIC**，用于支持十一月和十二月的社区管理工作。QUBIC 数量基于每十亿估值 **800 USDT** 计算。
+向钱包 **COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI** 转账 **14.44 亿 QUBIC**，用于支持十一月和十二月的社区管理工作。QUBIC 数量基于每十亿估值 **800 USDT** 计算。
 
 ### 可选项：
 > **选项 0**：不同意  
 
-> **选项 1**：同意，批准 12.3 亿 QUBIC 的预算。
+> **选项 1**：同意，批准 14.44 亿 QUBIC 的预算。
   
 ## 本提案的范围是什么？
 本提案旨在为社区团队提供资金支持，使其在三月份继续领取薪资。这将提供额外一个月的时间来确定合适的候选人，随后由该候选人负责提交必要的后续提案。
@@ -135,7 +135,7 @@ The Community Management Team moderates the Qubic Discord server and Telegram ch
 ## 🔍 How We Used Past Funding during the last 1 months ## 
 Due to market conditions and price fluctuations, the Community Team applied its dynamic compensation model to remain within the allocated budget. Despite these adjustments, operations on Discord and Telegram continued uninterrupted, with a full focus on core moderation, governance support, and community safety.
 
-Additionally, it achieved a savings of $5250 from the most recently requested budget due to the price increase in March.
+Additionally, it achieved a savings of $5500 from the most recently requested budget due to the price increase in March.
 
 Funding during this period enabled the Community Management Team to maintain a safe, fair, and engaging environment across the Qubic ecosystem. This included continuous moderation, community engagement, policy enforcement, support for other workgroups, multilingual assistance and documentation across Discord and Telegram.
 
@@ -158,9 +158,10 @@ The Community Quorum has been consolidating its importance. During the absence o
 ## 🧾 Budget breakdown
 |CONCEPTS|APRIL|VALUE IN $QUBIC|MAY|VALUE IN $QUBIC|
 |------------|------------|------------|------------|------------|
-|**Salaries**|~~$7550~~ $2300*| 2.87 Billion $QUBIC| $7550| 9.43 Billion $QUBIC|
+|**Salaries**|~~$7550~~ $2000*| ~~9.44B~~ 2.50 Billion $QUBIC| $9550**| 11.94 Billion $QUBIC|
 
 *The $5250 portion of April's salary will be covered by the increased amount resulting from the PA during the March payments.
+**The CL (Community Lead) salary has been included in the May budget, based on the assumption that the CL selection process will be completed by then.
 
 **Salaries cover full-time and part-time moderators based on workload, responsibility with the dynamic salary model described below.**
 
