@@ -8,10 +8,7 @@ Send 14.44 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZ
 
 ## 简体中文版
 <details>
-<summary> 点击展开查看中文版本 </summary>
-Aşağıda metnin tamamını Çinceye (简体中文) çevirdim:
-
----
+<summary> 点击展开查看中文版本 （人工智能辅助翻译）</summary>
 
 # 四月和五月社区管理CCF提案
 
