@@ -15,7 +15,7 @@ Send 14.44 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZ
 向钱包 COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI 发送 144.4 亿 QUBIC，以支持四月和五月期间的社区管理工作。QUBIC 数量基于每十亿 800 USDT 的估值计算。
 
 ### 🗳️ 可选项：
-> **选项 0**：❌ 不，我不同意
+> **选项 0**：❌ 不，我不同意<br/>
 > **选项 1**：✅ 是，批准 144.4 亿 QUBIC 的预算
 
 ## 本提案的范围是什么？
