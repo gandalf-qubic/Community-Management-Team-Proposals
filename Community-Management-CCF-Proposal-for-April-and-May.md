@@ -160,7 +160,7 @@ The Community Quorum has been consolidating its importance. During the absence o
 |------------|------------|------------|------------|------------|
 |**Salaries**|~~$7550~~ $2000*| ~~9.44B~~ 2.50 Billion $QUBIC| $9550**| 11.94 Billion $QUBIC|
 
-*The $5250 portion of April's salary will be covered by the increased amount resulting from the PA during the March payments.
+*The $5550 portion of April's salary will be covered by the increased amount resulting from the PA during the March payments.
 
 **The CL (Community Lead) salary has been included in the May budget, based on the assumption that the CL selection process will be completed by then.
 
